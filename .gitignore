@@ -7,6 +7,8 @@ annotated_videos
 *.pkl
 *.txt
 *.json
+*.ipynb
+
 
 
 
