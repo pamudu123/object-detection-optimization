@@ -1,4 +1,4 @@
-# Optimization Strategies for object detection Models
+# Optimization Strategies for Object Detection Models
 
 This repository is dedicated to adding different optimization strategies for object detection models. The aim is to enhance real-time inference capabilities while balancing speed and accuracy, even with limited hardware resources.
 
