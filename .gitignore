@@ -1,5 +1,6 @@
 alarms
 annotated_videos
+other
 
 *.pt
 *.onnx

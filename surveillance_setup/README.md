@@ -2,6 +2,10 @@
 
 This outlines the design considerations for a surveillance setup utilizing four video feeds. The setup is optimized for real-time processing with a focus on balancing speed and accuracy.
 
+<p align="center">
+  <img src="surveillance_setup/results/final_output1.gif">
+</p>
+
 ## Model Selection and Optimization
 
 ### YOLOv8 Nano with TensorRT and FP16 Quantization
@@ -52,3 +56,5 @@ This outlines the design considerations for a surveillance setup utilizing four 
 
 - **Robust Processing Loop:**  
   The pipeline includes mechanisms to handle cases where video frames are not available (e.g., end of the video), allowing the system to exit gracefully. This robustness is crucial for real-world applications.
+
+
