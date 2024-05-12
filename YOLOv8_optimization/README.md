@@ -14,8 +14,11 @@ This covers various optimization techniques applied to the YOLOv8 object detecto
 
 ## Performance Metrics
 
-For memory profiling, the `memory_profiler` Python library is used. Key metrics include:
+For memory profiling, the `memory_profiler` Python library is used.
+You can find more information about `memory_profiler` on [PyPI](https://pypi.org/project/memory-profiler/).
 
+
+Key metrics include:
 1. **avg_fps**: Average frames per second, indicating how smoothly video frames are being processed.
 
 2. **avg_gpu_usage**: Average GPU usage for processing a video.
@@ -23,6 +26,9 @@ For memory profiling, the `memory_profiler` Python library is used. Key metrics 
 3. **avg_objects_per_frame**: Average number of objects detected per frame, providing insights into the scene's complexity and the effectiveness of object detection algorithms.
 
 Additionally, the NVIDIA GPU Profiler (version 1.07a3_x64) is used for resource monitoring.
+[GPUProfiler GitHub page](https://github.com/JeremyMain/GPUProfiler/releases/tag/v1.07a3)
+
+## Optimization Techniques
 
 ## Optimization Techniques
 
