@@ -8,6 +8,7 @@ annotated_videos
 *.txt
 *.json
 *.ipynb
+*.mp4
 
 
 
