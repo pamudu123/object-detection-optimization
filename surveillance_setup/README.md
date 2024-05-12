@@ -2,9 +2,7 @@
 
 This outlines the design considerations for a surveillance setup utilizing four video feeds. The setup is optimized for real-time processing with a focus on balancing speed and accuracy.
 
-<p align="center">
-  <img src="surveillance_setup/results/final_output1.gif">
-</p>
+![Surveillance Setup](results/final_output1.gif)
 
 ## Model Selection and Optimization
 
