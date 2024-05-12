@@ -297,7 +297,7 @@ def get_process_output():
             print("====FINISHED====")
 
             # Save video_stats for analysis
-            with open('video_stats_4videos_tt.pkl', 'wb') as f:
+            with open('video_stats.pkl', 'wb') as f:
                 pickle.dump(results, f)
 
             break

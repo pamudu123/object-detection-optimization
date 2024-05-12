@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the results from the pickle file
-with open(r'C:\Users\PK\Desktop\projects\promisQ\video_stats_4videos_tt.pkl', 'rb') as f:
+with open(r'surveillance_setup\results\video_stats.pkl', 'rb') as f:
     results = pickle.load(f)
 
 # Extract feeds

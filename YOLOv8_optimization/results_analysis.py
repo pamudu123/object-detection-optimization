@@ -5,7 +5,7 @@ from statistics import mean
 import math
 
 # Load the results data from the pickle file
-results_file = r'YOLOv8_optimization\results\video_stats_yolov8m.pkl'
+results_file = r'YOLOv8_optimization\results\video_stats_yolov8m_e4.pkl'
 with open(results_file, 'rb') as f:
    results = pickle.load(f)
 

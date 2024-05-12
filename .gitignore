@@ -4,7 +4,6 @@ annotated_videos
 *.pt
 *.onnx
 *.engine
-*.pkl
 *.txt
 *.json
 *.ipynb
