@@ -1,4 +1,4 @@
----
+<!-- ---
 title: YOLO Battlefield
 emoji: 🏃
 colorFrom: indigo
@@ -8,7 +8,7 @@ sdk_version: 4.36.1
 app_file: app.py
 pinned: false
 license: apache-2.0
----
+--- -->
 
 # 𝐘𝐎𝐋𝐎-𝐁𝐚𝐭𝐭𝐥𝐞𝐟𝐢𝐞𝐥𝐝 ⚠️🔥
 
@@ -26,5 +26,5 @@ If you run this application locally on a GPU machine, you can use your machine's
 
 Sometimes, when you run a model for the first time, the processing time might be inaccurate. If this happens, rerun with the same configurations to obtain more accurate processing times.
 
-**Upcoming Features**
+**Upcoming Features** \
 Integration of more YOLO models

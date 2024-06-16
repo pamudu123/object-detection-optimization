@@ -6,12 +6,10 @@ YOLOv6
 *.pt
 *.onnx
 *.engine
-*.txt
 *.json
 *.ipynb
 *.mp4
 *.pyc
-
 
 
 
