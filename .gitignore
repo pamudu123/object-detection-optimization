@@ -1,6 +1,7 @@
 alarms
 annotated_videos
 other
+YOLOv6
 
 *.pt
 *.onnx

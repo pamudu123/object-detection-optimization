@@ -16,3 +16,11 @@ This repository is dedicated to adding different optimization strategies for obj
    [**Go to Surveillance Setup Documentation**](surveillance_setup/README.md)
 
     [**Go to Surveillance Setup Code**](surveillance_setup)
+
+---
+3. **𝐘𝐎𝐋𝐎-𝐁𝐚𝐭𝐭𝐥𝐞𝐟𝐢𝐞𝐥𝐝 ⚠️🔥**  
+   Compare YOLO models and find out the best one for your application.
+   [**Try this on Huggingface Spaces**](https://huggingface.co/spaces/Pamudu/YOLO-Battlefield)
+
+    [**𝐘𝐎𝐋𝐎-𝐁𝐚𝐭𝐭𝐥𝐞𝐟𝐢𝐞𝐥𝐝 Code**](YOLO_Battlefield)
+
