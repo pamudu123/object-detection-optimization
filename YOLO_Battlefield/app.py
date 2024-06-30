@@ -145,7 +145,7 @@ def process_image(np_image: np.ndarray, model_name: str, conf: float = 0.25, iou
 
     results = model(np_image, imgsz=img_size, conf=conf, iou=iou, half=False, device=device, verbose=False)
 
-    class_detections, class_confidences = process_detections(results)
+    class_detections, class_confidences = process_detections(results, class_detections={}, class_confidences={})
 
     # add annotations
     annotated_image = results[0].plot()
