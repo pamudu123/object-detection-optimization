@@ -366,7 +366,7 @@ def create_image_tab(available_models):
             image_size_slider = gr.Slider(label="Image Size", minimum=32, maximum=1280, step=32, value=640, interactive=True)
 
         with gr.Accordion("Other Parameters", open=False):
-            device_radio = gr.Radio(choices=["cpu", "cuda"], label="Device", value='cpu', interactive=True)
+            device_radio = gr.Radio(choices=["cpu", "cuda"], label="Device", value='cpu', interactive=False)
 
         with gr.Row():
             gr.Markdown("")

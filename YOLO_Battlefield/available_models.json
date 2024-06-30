@@ -1,0 +1,124 @@
+{
+    "yolov5": [
+        {
+            "model": "yolov5n",
+            "size": 640,
+            "mAPval_50-95": 34.3,
+            "params_M": 2.6,
+            "FLOPs_B": 7.7
+        },
+        {
+            "model": "yolov5s",
+            "size": 640,
+            "mAPval_50-95": 43.0,
+            "params_M": 9.1,
+            "FLOPs_B": 24.0
+        },
+        {
+            "model": "yolov5m",
+            "size": 640,
+            "mAPval_50-95": 49.0,
+            "params_M": 25.1,
+            "FLOPs_B": 64.2
+        },
+        {
+            "model": "yolov5l",
+            "size": 640,
+            "mAPval_50-95": 52.2,
+            "params_M": 53.2,
+            "FLOPs_B": 135.0
+        }
+    ],
+    "yolov8": [
+        {
+            "model": "yolov8n",
+            "size": 640,
+            "mAPval_50-95": 37.3,
+            "params_M": 3.2,
+            "FLOPs_B": 8.7
+        },
+        {
+            "model": "yolov8s",
+            "size": 640,
+            "mAPval_50-95": 44.9,
+            "params_M": 11.2,
+            "FLOPs_B": 28.6
+        },
+        {
+            "model": "yolov8m",
+            "size": 640,
+            "mAPval_50-95": 50.2,
+            "params_M": 25.9,
+            "FLOPs_B": 78.9
+        },
+        {
+            "model": "yolov8l",
+            "size": 640,
+            "mAPval_50-95": 52.9,
+            "params_M": 43.7,
+            "FLOPs_B": 165.2
+        },
+        {
+            "model": "yolov8x",
+            "size": 640,
+            "mAPval_50-95": 53.9,
+            "params_M": 68.2,
+            "FLOPs_B": 257.8
+        }
+    ],
+    "yolov9": [
+        {
+            "model": "yolov9c",
+            "size": 640,
+            "mAPval_50-95": 53.0,
+            "mAPval_50": 70.2,
+            "params_M": 25.5,
+            "FLOPs_B": 102.8
+        },
+        {
+            "model": "yolov9e",
+            "size": 640,
+            "mAPval_50-95": 55.6,
+            "mAPval_50": 72.8,
+            "params_M": 58.1,
+            "FLOPs_B": 192.5
+        }
+    ],
+    "yolov10": [
+        {
+            "model": "yolov10n",
+            "size": 640,
+            "mAPval_50-95": 38.5,
+            "params_M": 2.3,
+            "FLOPs_B": 6.7
+        },
+        {
+            "model": "yolov10s",
+            "size": 640,
+            "mAPval_50-95": 46.3,
+            "params_M": 7.2,
+            "FLOPs_B": 21.6
+        },
+        {
+            "model": "yolov10m",
+            "size": 640,
+            "mAPval_50-95": 51.1,
+            "params_M": 15.4,
+            "FLOPs_B": 59.1
+        },
+        {
+            "model": "yolov10l",
+            "size": 640,
+            "mAPval_50-95": 53.2,
+            "params_M": 24.4,
+            "FLOPs_B": 120.3
+        },
+        {
+            "model": "yolov10x",
+            "size": 640,
+            "mAPval_50-95": 54.4,
+            "params_M": 29.5,
+            "FLOPs_B": 160.4
+        }
+    ]  
+}
