@@ -9,6 +9,6 @@ scipy>=1.4.1
 torch>=1.7.0
 torchvision>=0.8.1
 tqdm>=4.64.0
-ultralytics==8.2.48
+ultralytics==8.3.3
 pandas>=1.1.4
 seaborn>=0.11.0

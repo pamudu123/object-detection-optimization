@@ -120,5 +120,42 @@
             "params_M": 29.5,
             "FLOPs_B": 160.4
         }
-    ]  
+    ],
+    "yolov11": [
+        {
+            "model": "YOLO11n",
+            "size": 640,
+            "mAPval_50-95": 39.5,
+            "params_M": 2.6,
+            "FLOPs_B": 6.5
+        },
+        {
+            "model": "YOLO11s",
+            "size": 640,
+            "mAPval_50-95": 47.0,
+            "params_M": 9.4,
+            "FLOPs_B": 21.5
+        },
+        {
+            "model": "YOLO11m",
+            "size": 640,
+            "mAPval_50-95": 51.5,
+            "params_M": 20.1,
+            "FLOPs_B": 68.0
+        },
+        {
+            "model": "YOLO11l",
+            "size": 640,
+            "mAPval_50-95": 53.4,
+            "params_M": 25.3,
+            "FLOPs_B": 86.9
+        },
+        {
+            "model": "YOLO11x",
+            "size": 640,
+            "mAPval_50-95": 54.7,
+            "params_M": 56.9,
+            "FLOPs_B": 194.9
+        }
+    ]
 }
